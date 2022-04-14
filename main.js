@@ -15,8 +15,8 @@ function draw()
 {
     image(img, 0, 0, 640,420);
     fill("pink");
-    Text("Dog", 45, 75);
+    text("Dog", 45, 75);
     noFill();
     stroke("pink");
-    Reflect(30, 60, 450, 350);
+    rect(30, 60, 450, 350);
 }
