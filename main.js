@@ -23,7 +23,7 @@ function draw()
     stroke("pink");
     rect(30, 60, 450, 350);
 
-    image(img, 0, 0, 640,420);
+    //image(img, 0, 0, 640,420);
     fill("pink");
     text("Cat", 320, 120);
     noFill();
